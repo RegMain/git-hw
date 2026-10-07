@@ -1,0 +1,39 @@
+commit 88f307e60e6bbfea562f78cefce6ed039321e75d
+Merge: 01d59bf 5fc6549
+Author: RegMain <kharkov.ivan.an@gmail.com>
+Date:   Tue Oct 6 21:52:12 2026 +0300
+
+    Merge branch 'feature-a'
+    
+    # Conflicts:
+    #       a.txt
+
+commit 5fc65492f11b81120b1e882bb35036745c43f0c6
+Author: RegMain <kharkov.ivan.an@gmail.com>
+Date:   Tue Oct 6 21:47:53 2026 +0300
+
+    We need it too
+
+commit 01d59bf4862e63d31ef77be8b8c160ab8060c9ee
+Author: RegMain <kharkov.ivan.an@gmail.com>
+Date:   Tue Oct 6 21:47:25 2026 +0300
+
+    We need it
+
+commit 67de49c65bd22e9dc6523d79bbd3bdb7ee0362dc
+Author: RegMain <kharkov.ivan.an@gmail.com>
+Date:   Tue Oct 6 21:36:06 2026 +0300
+
+    Update
+
+commit f0ccc43298646d7c7bcef165f56a9fc497832a6c
+Author: RegMain <kharkov.ivan.an@gmail.com>
+Date:   Tue Oct 6 21:32:17 2026 +0300
+
+    Some text
+
+commit 492e7800b314eede3b240e9346cf678bd7cedf74
+Author: RegMain <kharkov.ivan.an@gmail.com>
+Date:   Tue Oct 6 21:31:08 2026 +0300
+
+    Initial commit
